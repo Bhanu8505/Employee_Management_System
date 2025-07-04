@@ -209,6 +209,7 @@ export const employees = [
 export const admins = [
   {
     id: 1,
+    firstName: "admin",
     email: "admin@example.com",
     password: "123",
   },
